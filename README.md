@@ -364,7 +364,7 @@ Si encuentras algún problema o tienes preguntas:
 4. Contacta al instructor del taller
 
 ---
-
+Prueba de CI/CD – actualización de documentación
 ## Licencia
 
 Este proyecto es de uso educativo para el **Taller de Despliegue de Aplicaciones Web**.
